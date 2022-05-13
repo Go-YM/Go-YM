@@ -1,4 +1,4 @@
 ## ⚡Tech Stack⚡
 
 ## ⚡Backjun Rank⚡
-[here](https://solved.ac/profile/dudalsrkwhr4)
+[![https://solved.ac/profile/dudalsrkwhr4](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
