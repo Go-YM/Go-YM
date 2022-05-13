@@ -16,11 +16,3 @@
   
 </div>
 
-
-
-## ⚡GitHub Stats⚡
-<div align = "center">
-  
-![Go's GitHub stats](https://github-readme-stats.vercel.app/api?username=Go-YM&show_icons=true&theme=radical)
-  
-</div>
