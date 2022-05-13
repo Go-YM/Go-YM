@@ -1,4 +1,4 @@
 ## ⚡Tech Stack⚡
 
 ## ⚡Backjun Rank⚡
-Click[here](https://solved.ac/profile/dudalsrkwhr4)
+[here](https://solved.ac/profile/dudalsrkwhr4)
