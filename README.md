@@ -9,6 +9,8 @@
   
 <br/><br/>
   
+## ⚡GitHub Trophy⚡
+  
 [![trophy](https://github-profile-trophy.vercel.app/?username=Go-YM)](https://github.com/ryo-ma/github-profile-trophy)
   
 </div>
