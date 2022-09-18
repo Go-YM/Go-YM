@@ -7,7 +7,7 @@
         src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/0mini_00/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
-<a href="https://alpox.kr">
+<a href="https://blog.naver.com/dudalsrkwhr4">
     <img 
         src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://blog.naver.com/dudalsrkwhr4"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
