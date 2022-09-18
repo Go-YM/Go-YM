@@ -1,5 +1,13 @@
 <div align = "center">
 
+## ⚡Social Network⚡
+
+<a href="https://www.instagram.com/0mini_00/">
+    <img 
+        src="http://img.shields.io/badge/-쓰고싶은텍스트-배경색(ex.222222)?style=flat&logo=아이콘명(ex.Instagram)&link=https://www.instagram.com/본인인스타아이디/"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
+
 ## ⚡Tech Stack⚡
   
 ![C](https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=black)
