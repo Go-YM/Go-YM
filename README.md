@@ -2,14 +2,14 @@
 
 ## ⚡Social Network⚡
 
-<a href="https://instagram.com/alpox.dev">
+<a href="https://instagram.com/0mini_00">
     <img 
         src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/0mini_00/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 <a href="https://alpox.kr">
     <img 
-        src="https://blog.naver.com/dudalsrkwhr4"
+        src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://blog.naver.com/dudalsrkwhr4"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
