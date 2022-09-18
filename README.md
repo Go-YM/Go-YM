@@ -2,9 +2,14 @@
 
 ## ⚡Social Network⚡
 
-<a href="https://www.instagram.com/0mini_00/">
+<a href="https://instagram.com/alpox.dev">
     <img 
-        src="http://img.shields.io/badge/-쓰고싶은텍스트-배경색(ex.222222)?style=flat&logo=아이콘명(ex.Instagram)&link=https://www.instagram.com/본인인스타아이디/"
+        src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/alpox.dev/"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
+<a href="https://alpox.kr">
+    <img 
+        src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://alpox.kr"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
