@@ -13,6 +13,8 @@
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
+<br/><br/>
+
 ## ⚡Tech Stack⚡
   
 ![C](https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=black)
