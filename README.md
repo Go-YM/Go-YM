@@ -9,7 +9,7 @@
 </a>
 <a href="https://blog.naver.com/dudalsrkwhr4">
     <img 
-        src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://blog.naver.com/dudalsrkwhr4"
+        src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://blog.naver.com/go_ym"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
